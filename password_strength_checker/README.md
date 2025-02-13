@@ -14,7 +14,6 @@ This script analyzes passwords for:
 
 ## 🔧 How to Use
 1️⃣ Run the script:
-   ```sh
    python password_checker.py
 
 2️⃣ Enter a password to check.
