@@ -11,6 +11,5 @@ This is a simple **Python-based Port Scanner** that helps security administrator
 ## 🔹 How to Run
 1. Navigate to the `port_scanner` directory.
 2. Run the script:
-   ```sh
    python port_scanner.py
-2. Enter an IP address or domain to scan.
+3. Enter an IP address or domain to scan.
