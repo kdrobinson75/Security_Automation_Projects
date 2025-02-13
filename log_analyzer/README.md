@@ -11,7 +11,6 @@ This script scans system logs to **detect failed login attempts** and **identify
 ## 🔧 How to Use
 1️⃣ Place your **log file** (`auth.log`) in the same directory.  
 2️⃣ Run the script:
-   ```sh
    python log_analyzer.py
 3️⃣ View the list of suspicious IPs.
 
