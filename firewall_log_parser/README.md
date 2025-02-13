@@ -16,7 +16,6 @@ This script scans **firewall logs** to detect:
 ## 🔧 How to Use
 1️⃣ Place your **firewall log file** (`firewall.log`) in the same directory.  
 2️⃣ Run the script:
-   ```sh
    python firewall_log_parser.py
 3️⃣ View blocked IPs & brute-force alerts.
 
