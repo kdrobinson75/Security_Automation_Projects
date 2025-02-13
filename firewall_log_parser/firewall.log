@@ -1,0 +1,6 @@
+Jan  1 12:34:56 Firewall: Blocked connection from 192.168.1.100
+Jan  1 12:35:02 Firewall: Blocked connection from 203.0.113.50
+Jan  1 12:36:10 Firewall: Allowed connection from 45.33.32.156
+Jan  1 12:37:15 Firewall: Blocked connection from 192.168.1.100
+Jan  1 12:38:22 Firewall: Blocked connection from 203.0.113.50
+Jan  1 12:39:30 Firewall: Blocked connection from 192.168.1.100
